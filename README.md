@@ -1,4 +1,4 @@
-*miREval 2.0: predicting miRNA directly from sequences - Command-line Version (Beta)*
+*miREval 2.0: predicting miRNAs directly from sequences - Command-line Version (Beta)*
 
 **DEPENDENCIES**    
 Befor install miREval you should have the following:
